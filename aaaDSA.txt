@@ -1,0 +1,16 @@
+Structures de données :
+    Stack
+    Queue
+    HashMap / Set
+    Linked List
+    Binary Tree
+    Heap / Priority Queue
+
+Algorithmes classiques :
+    Two pointers
+    Sliding window
+    Binary search
+    DFS / BFS
+    Recursion
+    Greedy
+    Prefix sum

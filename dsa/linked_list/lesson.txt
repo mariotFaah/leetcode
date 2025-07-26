@@ -1,0 +1,23 @@
+🧭 Planning détaillé de l’apprentissage des listes chaînées (1h30)
+Temps	Objectif pédagogique	Contenu / Activité
+⏱ 0–10 min	📘 Introduction et théorie	Définition, types, avantages, cas d'utilisation, visualisation
+⏱ 10–25 min	🛠 Création d’une liste simplement chaînée	Implémenter Node et LinkedList, puis ajouter des éléments au début
+⏱ 25–35 min	🔄 Parcourir et afficher la liste	Méthode afficher() avec boucle while
+⏱ 35–45 min	➕ Ajouter à la fin / insérer au milieu	Méthodes ajouter_fin() et inserer(position)
+⏱ 45–55 min	➖ Supprimer un élément	Méthodes supprimer_valeur(valeur) et cas particuliers (début/fin)
+⏱ 55–65 min	🔍 Rechercher un élément	Méthode rechercher(valeur)
+⏱ 65–75 min	🧠 Petit Quiz & Exercices pratiques	3 mini-exercices (ajout + suppression + affichage dans différents ordres)
+⏱ 75–90 min	🧪 Mini projet : Implémenter une pile ou file	Utiliser la liste chaînée pour créer une structure Stack ou Queue
+📝 Objectifs pédagogiques à la fin :
+
+Tu seras capable de :
+
+    Expliquer ce qu’est une liste chaînée
+
+    Créer ta propre structure en Python
+
+    Ajouter, supprimer, chercher des éléments
+
+    Résoudre un petit problème algorithmique en l’utilisant
+
+

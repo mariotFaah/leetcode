@@ -1,0 +1,20 @@
+ 6. Compter les chiffres d’un nombre.
+
+    Entrée : 12345 → Sortie : 5 chiffres
+
+🟰 7. Vérifier si un nombre est un palindrome.
+
+    Entrée : 121 → Sortie : Oui
+    Entrée : 123 → Sortie : Non
+
+🔀 8. Inverser un tableau d’entiers.
+
+    Entrée : 1 2 3 4 → Sortie : 4 3 2 1
+
+🔢 9. Trier un tableau avec le tri à bulles.
+
+    Entrée : 4 3 1 2 → Sortie : 1 2 3 4
+
+📊 10. Trouver le plus petit élément d’un tableau.
+
+    Entrée : 5 8 -2 9 → Sortie : -2
